@@ -1,0 +1,14 @@
+Please put together a simple web server that utilizes calling upon a REST API of your choice.
+The web server can be from any framework you'd like, but should be simple to run and boot on a local machine (No need for a front end!)
+
+Ideally, it executes something with a tangible outcome, and should also leverage some webhook or some sort of listener.
+
+
+We're looking for some practical experience with APIs in the context of a web server.
+
+If you're at a loss on an API to use, here are a few services that have free trials/developer accounts:
+https://developers.intercom.com/docs/references/introduction
+https://developer.zendesk.com/api-reference
+
+https://developers.asana.com/reference/rest-api-reference
+
